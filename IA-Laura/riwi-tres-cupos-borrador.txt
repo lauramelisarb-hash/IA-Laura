@@ -1,0 +1,100 @@
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+ELECCIÓN INDIVIDUAL
+Hugo, Elena, Ana
+Criterio: La asistencia de los estudiantes, la descripcion de su situacion y la nota que tienen
+
+PRIMERA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+PRIMERA RESPUESTA
+Selección de los tres estudiantes
+
+Para aprovechar de forma óptima el Programa A (enfocado únicamente en alcanzar la nota mínima de 3 para el examen de la próxima semana a través de dos sesiones intensivas presenciales), los tres estudiantes elegidos son:
+
+    Elena (Nota: 2,7 | Asistencia: 100 %)
+
+        Justificación: Está muy cerca de la nota de aprobación (2,7) y demuestra un compromiso total con su asistencia (100 %). Comprende la teoría pero comete errores prácticos al programar; un repaso guiado corto de 4 horas es el formato ideal para corregir fallos puntuales de sintaxis o lógica y asegurar que apruebe.   
+        image_e2e0fc.png+ 1
+
+    Camila (Nota: 2,8 | Asistencia: 100 %)
+
+        Justificación: Con un 2,8 está a solo dos décimas de aprobar y asiste a todas las clases. Su obstáculo principal es la autonomía (se bloquea sola). Las sesiones con computadores e instructores le permitirán ganar confianza de cara a la evaluación individual.   
+        image_e2e0fc.png+ 1
+
+    Hugo (Nota: 2,5 | Asistencia: 90 %)
+
+        Justificación: Mantiene un excelente compromiso (90 % de asistencia) y cumple con las entregas. Su dificultad radica en consolidar la comprensión teórica del código que escribe. Dos sesiones estructuradas de preparación le permitirán afianzar los conceptos clave necesarios para superar el examen. 
+
+Justificación de los estudiantes descartadosFelipe (Nota: 4,3 | Asistencia: 95 %): Ya tiene el curso aprobado con una calificación sobresaliente. El objetivo del programa es llevar a estudiantes a la nota mínima de 3, no profundizar en temas avanzados.   Diego (Nota: 1,9 | Asistencia: 60 %): Es el caso con mayor rezago académico y baja asistencia debido a situaciones personales externas. Un taller corto de 4 horas previo al examen no es suficiente para subsanar un atraso tan severo; requiere un plan de tutoría o acompañamiento de mayor duración.   Ana (Nota: 2,1 | Asistencia: 95 %): A pesar de su alta asistencia, presenta vacíos profundos en los conceptos básicos de programación. Un repaso express de dos sesiones difícilmente resolverá brechas conceptuales de fondo antes del examen.   Bruno (Nota: 2,8 | Asistencia: 65 %): Aunque su nota está cerca del límite de aprobación, su principal barrera es la inasistencia por cruces laborales. El programa no resuelve sus restricciones de horario de trabajo.   Gabriela (Nota: 2,6 | Asistencia: 80 %): Su limitación principal es la falta de acceso regular a un equipo en casa para practicar a diario. Como el programa solo ofrece computadores durante las 4 horas de taller y no presta equipos para llevar a casa, no soluciona su problema estructural de práctica.  
+
+OBSERVACIONES
+1. Recibir mayor tiempo de estudio y explicacion, porque sugiere que se hagan sesiones intensivas presenciales. 
+2. Tomo principalmente las notas, luego tuvo encuenta que fueran personas que comprendieran los temas o tuviera compromiso en aprender y por ultimo la asistencia. 
+3. Intento predecir el porque de los motivos de cada estudiante, para dar una mejor interpretacion de su falta de compromiso. 
+4. No, con el promt fue suficiente. 
+
+SEGUNDA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+Información adicional sobre el programa:
+PROGRAMA A: Preparación para el examen
+Dos sesiones de dos horas antes del examen de la próxima semana. El propósito es apoyar a estudiantes para que alcancen la nota mínima de aprobación: 3. Los ocho estudiantes pueden asistir a las dos sesiones. Hay computadores disponibles durante las sesiones. No hay préstamo de equipos ni acompañamiento después del examen.
+
+SEGUNDA RESPUESTA
+Selección de los tres estudiantesPara aprovechar de forma óptima el Programa A (enfocado en alcanzar la nota mínima de 3 a través de dos sesiones intensivas de dos horas previas al examen), los tres estudiantes seleccionados son:Elena (Nota: 2,7 | Asistencia: 100 %)Justificación: Está muy cerca de la nota de aprobación (2,7) y tiene un compromiso impecable con su asistencia (100 %). Su dificultad principal es que comete errores al programar a pesar de comprender las explicaciones. Cuatro horas de práctica guiada son el formato ideal para corregir fallos sintácticos o de lógica puntual y asegurar que supere el examen.   Camila (Nota: 2,8 | Asistencia: 100 %)Justificación: Se encuentra a solo dos décimas de aprobar y asiste a la totalidad de las clases. Su obstáculo radica en el bloqueo al trabajar sola. Las sesiones intensivas con computadores y acompañamiento le brindarán el entorno de práctica individual necesario para ganar autonomía e independencia de cara a la prueba.   Hugo (Nota: 2,5 | Asistencia: 90 %)Justificación: Mantiene una excelente asistencia (90 %) y cumple entregando sus tareas. Su punto débil es que le cuesta explicar el funcionamiento del código que presenta. Dos sesiones estructuradas antes del examen le permitirán consolidar la teoría detrás de la práctica y afianzar los conceptos indispensables para aprobar.   Justificación de los estudiantes descartadosFelipe (Nota: 4,3 | Asistencia: 95 %): Su rendimiento supera ampliamente el mínimo requerido. El objetivo explícito del programa es ayudar a estudiantes a alcanzar la nota de 3, no profundizar en contenidos avanzados.   Diego (Nota: 1,9 | Asistencia: 60 %): Presenta el mayor rezago del grupo y una baja asistencia por emergencias familiares. Un taller exprés de 4 horas previas al examen no es suficiente para subsanar un atraso conceptual y práctico tan severo; requiere un plan de tutoría de mayor duración.   Ana (Nota: 2,1 | Asistencia: 95 %): A pesar de su alto compromiso y esfuerzo independiente, arrastra vacíos en conceptos básicos de programación. Dos sesiones breves no son suficientes para rehacer las bases conceptuales que necesita antes de la evaluación.   Bruno (Nota: 2,8 | Asistencia: 65 %): Aunque su nota está cercana al 3,0, su limitación principal proviene de la falta de continuidad por cruces de horario laboral. El programa no soluciona el problema de fondo de sus inasistencias estructurales a las clases regulares.   Gabriela (Nota: 2,6 | Asistencia: 80 %): Su principal impedimento es la falta de un equipo propio en casa para practicar de forma continua. Dado que el programa solo facilita computadores durante las sesiones presenciales y no contempla préstamo de equipos para llevar a casa, no resuelve su necesidad técnica principal a largo plazo. 
+
+COMPARACIÓN
+No hubo cambios en la selección de los tres estudiantes respecto a la primera propuesta. En ambas respuestas se eligieron a Elena, Camila y Hugo, manteniendo exactamente la misma justificación y los mismos descartados.
+Cambio algunas palabras de la justificacion, pero mantuvo la idea de la primera respuesta. 
+
+CONCLUSIÓN
+Para que la IA pudiera hacer la seleccion, se tuvo que ser claros en la informacion, darle los datos de cada estudiante para que se basara en ellos y explicar cual era el proposito, para que pudiera dar respuestas acordes a lo que necesitabamos sin que tuviera mucho espacio a suponer. 
